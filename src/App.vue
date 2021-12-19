@@ -69,7 +69,7 @@
           <search />
         </v-row>
         <v-row>
-           <v-app-bar-title class="ml-4 text-h4">Vuetify Todo</v-app-bar-title>
+           <v-app-bar-title class="ml-4 text-h4">Vuetify</v-app-bar-title>
         </v-row>
          <v-row>
            <live-date-time />
